@@ -1,0 +1,85 @@
+Jul 21 08:54:00 10.71.57.0 tmp95553109-4262 Connection from 10.71.57.0 port 35966 on 82.165.82.11 port 22
+Jul 21 08:54:00 10.71.57.0 tmp95553109-4262 Accepted password for tmp95553109-4262 from 10.71.57.0 port 35966 ssh2
+Jul 21 08:54:00 10.71.57.0 tmp95553109-4262 Starting session: subsystem 'sftp' for tmp95553109-4262 from 10.71.57.0 port 35966
+Jul 21 08:54:00 10.71.57.0 tmp95553109-4262 session opened for local user tmp95553109-4262 from [10.71.57.0]
+Jul 21 08:56:02 10.71.57.0 tmp95553109-2120 Connection from 10.71.57.0 port 60640 on 82.165.82.11 port 22
+Jul 21 08:56:02 10.71.57.0 tmp95553109-2120 Accepted password for tmp95553109-2120 from 10.71.57.0 port 60640 ssh2
+Jul 21 08:56:02 10.71.57.0 tmp95553109-4262 open "/logs/.htaccess" flags READ mode 0666
+Jul 21 08:56:02 10.71.57.0 tmp95553109-4262 close "/logs/.htaccess" bytes read 267 written 0
+Jul 21 08:56:02 10.71.57.0 tmp95553109-4262 [10.71.57.0|get|0|267|0|0|0|2f6c6f67732f2e6874616363657373|]
+Jul 21 08:56:22 10.71.57.0 tmp95553109-4262 open "/logs/access.log.22.gz" flags READ mode 0666
+Jul 21 08:56:22 10.71.57.0 tmp95553109-4262 close "/logs/access.log.22.gz" bytes read 8022 written 0
+Jul 21 08:56:22 10.71.57.0 tmp95553109-4262 [10.71.57.0|get|0|8022|0|0|0|2f6c6f67732f6163636573732e6c6f672e32322e677a|]
+Jul 21 08:56:25 10.71.57.0 tmp95553109-4262 open "/logs/access.log.23.gz" flags READ mode 0666
+Jul 21 08:56:25 10.71.57.0 tmp95553109-4262 close "/logs/access.log.23.gz" bytes read 4979 written 0
+Jul 21 08:56:25 10.71.57.0 tmp95553109-4262 [10.71.57.0|get|0|4979|0|0|0|2f6c6f67732f6163636573732e6c6f672e32332e677a|]
+Jul 21 08:56:29 10.71.57.0 tmp95553109-4262 open "/logs/access.log.24.gz" flags READ mode 0666
+Jul 21 08:56:29 10.71.57.0 tmp95553109-4262 close "/logs/access.log.24.gz" bytes read 6693 written 0
+Jul 21 08:56:29 10.71.57.0 tmp95553109-4262 [10.71.57.0|get|0|6693|0|0|0|2f6c6f67732f6163636573732e6c6f672e32342e677a|]
+Jul 21 08:56:32 10.71.57.0 tmp95553109-4262 open "/logs/access.log.25.gz" flags READ mode 0666
+Jul 21 08:56:32 10.71.57.0 tmp95553109-4262 close "/logs/access.log.25.gz" bytes read 4992 written 0
+Jul 21 08:56:32 10.71.57.0 tmp95553109-4262 [10.71.57.0|get|0|4992|0|0|0|2f6c6f67732f6163636573732e6c6f672e32352e677a|]
+Jul 21 08:56:34 10.71.57.0 tmp95553109-4262 open "/logs/access.log.26.gz" flags READ mode 0666
+Jul 21 08:56:34 10.71.57.0 tmp95553109-4262 close "/logs/access.log.26.gz" bytes read 7314 written 0
+Jul 21 08:56:34 10.71.57.0 tmp95553109-4262 [10.71.57.0|get|0|7314|0|0|0|2f6c6f67732f6163636573732e6c6f672e32362e677a|]
+Jul 21 08:56:37 10.71.57.0 tmp95553109-4262 open "/logs/access.log.27.gz" flags READ mode 0666
+Jul 21 08:56:37 10.71.57.0 tmp95553109-4262 close "/logs/access.log.27.gz" bytes read 5248 written 0
+Jul 21 08:56:37 10.71.57.0 tmp95553109-4262 [10.71.57.0|get|0|5248|0|0|0|2f6c6f67732f6163636573732e6c6f672e32372e677a|]
+Jul 21 08:56:41 10.71.57.0 tmp95553109-4262 open "/logs/access.log.28.gz" flags READ mode 0666
+Jul 21 08:56:41 10.71.57.0 tmp95553109-4262 close "/logs/access.log.28.gz" bytes read 5595 written 0
+Jul 21 08:56:41 10.71.57.0 tmp95553109-4262 [10.71.57.0|get|0|5595|0|0|0|2f6c6f67732f6163636573732e6c6f672e32382e677a|]
+Jul 21 08:56:43 10.71.57.0 tmp95553109-4262 open "/logs/access.log.29.1.gz" flags READ mode 0666
+Jul 21 08:56:43 10.71.57.0 tmp95553109-4262 close "/logs/access.log.29.1.gz" bytes read 1133 written 0
+Jul 21 08:56:43 10.71.57.0 tmp95553109-4262 [10.71.57.0|get|0|1133|0|0|0|2f6c6f67732f6163636573732e6c6f672e32392e312e677a|]
+Jul 21 08:56:52 10.71.57.0 tmp95553109-4262 open "/logs/access.log.29.2.gz" flags READ mode 0666
+Jul 21 08:56:53 10.71.57.0 tmp95553109-4262 close "/logs/access.log.29.2.gz" bytes read 1052 written 0
+Jul 21 08:56:53 10.71.57.0 tmp95553109-4262 [10.71.57.0|get|1|1052|0|0|0|2f6c6f67732f6163636573732e6c6f672e32392e322e677a|]
+Jul 21 08:57:09 10.71.57.0 tmp95553109-4262 open "/logs/access.log.29.3.gz" flags READ mode 0666
+Jul 21 08:57:10 10.71.57.0 tmp95553109-4262 close "/logs/access.log.29.3.gz" bytes read 1093 written 0
+Jul 21 08:57:10 10.71.57.0 tmp95553109-4262 [10.71.57.0|get|0|1093|0|0|0|2f6c6f67732f6163636573732e6c6f672e32392e332e677a|]
+Jul 21 08:59:08 10.71.57.0 tmp95553109-4262 open "/logs/access.log.29.4.gz" flags READ mode 0666
+Jul 21 08:59:08 10.71.57.0 tmp95553109-4262 close "/logs/access.log.29.4.gz" bytes read 1210 written 0
+Jul 21 08:59:08 10.71.57.0 tmp95553109-4262 [10.71.57.0|get|0|1210|0|0|0|2f6c6f67732f6163636573732e6c6f672e32392e342e677a|]
+Jul 21 08:59:11 10.71.57.0 tmp95553109-4262 open "/logs/access.log.29.5.gz" flags READ mode 0666
+Jul 21 08:59:11 10.71.57.0 tmp95553109-4262 close "/logs/access.log.29.5.gz" bytes read 976 written 0
+Jul 21 08:59:11 10.71.57.0 tmp95553109-4262 [10.71.57.0|get|0|976|0|0|0|2f6c6f67732f6163636573732e6c6f672e32392e352e677a|]
+Jul 21 08:59:15 10.71.57.0 tmp95553109-4262 open "/logs/access.log.29.6.gz" flags READ mode 0666
+Jul 21 08:59:15 10.71.57.0 tmp95553109-4262 close "/logs/access.log.29.6.gz" bytes read 2315 written 0
+Jul 21 08:59:15 10.71.57.0 tmp95553109-4262 [10.71.57.0|get|0|2315|0|0|0|2f6c6f67732f6163636573732e6c6f672e32392e362e677a|]
+Jul 21 08:59:17 10.71.57.0 tmp95553109-4262 open "/logs/access.log.29.7.gz" flags READ mode 0666
+Jul 21 08:59:17 10.71.57.0 tmp95553109-4262 close "/logs/access.log.29.7.gz" bytes read 851 written 0
+Jul 21 08:59:17 10.71.57.0 tmp95553109-4262 [10.71.57.0|get|0|851|0|0|0|2f6c6f67732f6163636573732e6c6f672e32392e372e677a|]
+Jul 21 08:59:20 10.71.57.0 tmp95553109-4262 open "/logs/access.log.30.1.gz" flags READ mode 0666
+Jul 21 08:59:20 10.71.57.0 tmp95553109-4262 close "/logs/access.log.30.1.gz" bytes read 1063 written 0
+Jul 21 08:59:20 10.71.57.0 tmp95553109-4262 [10.71.57.0|get|0|1063|0|0|0|2f6c6f67732f6163636573732e6c6f672e33302e312e677a|]
+Jul 21 08:59:26 10.71.57.0 tmp95553109-4262 open "/logs/access.log.30.2" flags READ mode 0666
+Jul 21 08:59:26 10.71.57.0 tmp95553109-4262 close "/logs/access.log.30.2" bytes read 1310 written 0
+Jul 21 08:59:26 10.71.57.0 tmp95553109-4262 [10.71.57.0|get|0|1310|0|0|0|2f6c6f67732f6163636573732e6c6f672e33302e32|]
+Jul 21 08:59:29 10.71.57.0 tmp95553109-4262 open "/logs/access.log.current" flags READ mode 0666
+Jul 21 08:59:29 10.71.57.0 tmp95553109-4262 close "/logs/access.log.current" bytes read 1310 written 0
+Jul 21 08:59:29 10.71.57.0 tmp95553109-4262 [10.71.57.0|get|0|1310|0|0|0|2f6c6f67732f6163636573732e6c6f672e63757272656e74|]
+Jul 21 08:59:32 10.71.57.0 tmp95553109-4262 open "/logs/dav.log.22.gz" flags READ mode 0666
+Jul 21 08:59:32 10.71.57.0 tmp95553109-4262 close "/logs/dav.log.22.gz" bytes read 176 written 0
+Jul 21 08:59:32 10.71.57.0 tmp95553109-4262 [10.71.57.0|get|0|176|0|0|0|2f6c6f67732f6461762e6c6f672e32322e677a|]
+Jul 21 08:59:34 10.71.57.0 tmp95553109-4262 open "/logs/dav.log.23.gz" flags READ mode 0666
+Jul 21 08:59:34 10.71.57.0 tmp95553109-4262 close "/logs/dav.log.23.gz" bytes read 176 written 0
+Jul 21 08:59:34 10.71.57.0 tmp95553109-4262 [10.71.57.0|get|0|176|0|0|0|2f6c6f67732f6461762e6c6f672e32332e677a|]
+Jul 21 08:59:36 10.71.57.0 tmp95553109-4262 open "/logs/dav.log.24.gz" flags READ mode 0666
+Jul 21 08:59:36 10.71.57.0 tmp95553109-4262 close "/logs/dav.log.24.gz" bytes read 176 written 0
+Jul 21 08:59:36 10.71.57.0 tmp95553109-4262 [10.71.57.0|get|0|176|0|0|0|2f6c6f67732f6461762e6c6f672e32342e677a|]
+Jul 21 08:59:43 10.71.57.0 tmp95553109-4262 open "/logs/dav.log.25.gz" flags READ mode 0666
+Jul 21 08:59:43 10.71.57.0 tmp95553109-4262 close "/logs/dav.log.25.gz" bytes read 195 written 0
+Jul 21 08:59:43 10.71.57.0 tmp95553109-4262 [10.71.57.0|get|0|195|0|0|0|2f6c6f67732f6461762e6c6f672e32352e677a|]
+Jul 21 08:59:52 10.71.57.0 tmp95553109-4262 open "/logs/info.php5" flags READ mode 0666
+Jul 21 08:59:52 10.71.57.0 tmp95553109-4262 close "/logs/info.php5" bytes read 21 written 0
+Jul 21 08:59:52 10.71.57.0 tmp95553109-4262 [10.71.57.0|get|0|21|0|0|0|2f6c6f67732f696e666f2e70687035|]
+Jul 21 08:59:59 10.71.57.0 tmp95553109-4262 open "/logs/info.pl" flags READ mode 0666
+Jul 21 08:59:59 10.71.57.0 tmp95553109-4262 close "/logs/info.pl" bytes read 4176 written 0
+Jul 21 08:59:59 10.71.57.0 tmp95553109-4262 [10.71.57.0|get|0|4176|0|0|0|2f6c6f67732f696e666f2e706c|]
+Jul 21 09:00:03 10.71.57.0 tmp95553109-4262 open "/logs/last_traffic" flags READ mode 0666
+Jul 21 09:00:03 10.71.57.0 tmp95553109-4262 close "/logs/last_traffic" bytes read 0 written 0
+Jul 21 09:00:03 10.71.57.0 tmp95553109-4262 [10.71.57.0|get|0|0|0|0|0|2f6c6f67732f6c6173745f74726166666963|]
+Jul 21 09:00:21 10.71.57.0 tmp95553109-4262 open "/logs/info.py" flags READ mode 0666
+Jul 21 09:00:22 10.71.57.0 tmp95553109-4262 close "/logs/info.py" bytes read 6384 written 0
+Jul 21 09:00:22 10.71.57.0 tmp95553109-4262 [10.71.57.0|get|1|6384|0|0|0|2f6c6f67732f696e666f2e7079|]
+Jul 21 09:00:28 10.71.57.0 tmp95553109-4262 open "/logs/sftp.log" flags READ mode 0666
